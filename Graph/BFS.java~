@@ -1,0 +1,36 @@
+package Graph;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.naming.InitialContext;
+
+import Graph.Vertex;
+public class BFS {
+	public final int size = 5;
+	public Vertex[] V = new Vertex[size];
+	public void initGraph(){
+		List arr0 = new ArrayList<Integer>();
+		List arr1 = new ArrayList<Integer>();
+		List arr2 = new ArrayList<Integer>();
+		List arr3 = new ArrayList<Integer>();
+		List arr4 = new ArrayList<Integer>();
+		List arr5 = new ArrayList<Integer>();
+		arr0.add(2);
+		arr0.add(4);
+		arr1.add(5);
+		arr2.add(6);
+		arr2.add(5);
+		arr3.add(2);
+		arr4.add(4);
+		arr5.add(5);
+		
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//initiate graph
+		
+		
+
+	}
+
+}
