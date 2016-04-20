@@ -1,7 +1,4 @@
 package Tree;
-import java.nio.file.attribute.AclEntry.Builder;
-
-import javax.security.auth.x500.X500Principal;
 
 
 public class BSTree {
@@ -69,7 +66,7 @@ public class BSTree {
 //		}
 	}
 	
-	//返回String的preorder方法
+	//路碌禄脴String碌脛preorder路陆路篓
 //	public String preorder(Node node){
 //		//String preorderString = "";
 //		Node x = node;
